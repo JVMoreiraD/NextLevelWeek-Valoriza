@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NLW VALORIZA
 
 ## Regras
