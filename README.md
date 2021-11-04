@@ -22,4 +22,4 @@
 
     [ X ] Não é permitido cadastrar eleogios para usuario invalidos.
 
-    [ ] Usuario precisa estar autenticado na aplicação.
+    [ X ] Usuario precisa estar autenticado na aplicação.
